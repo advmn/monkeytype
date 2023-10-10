@@ -1,0 +1,7 @@
+Data i godzina wykonania testu: 2023-06-15_04-09-59
+Iloœæ wprowadzonych znaków: 19
+Œrednia iloœæ znaków na minutê: 81
+Procent poprawnych znaków: 21.052631578947366%
+Procent pominiêtych znaków: 15.789473684210526%
+Procent b³êdnych znaków: 100.0%
+Œrednia iloœæ s³ów na minutê: 17
